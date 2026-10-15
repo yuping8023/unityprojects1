@@ -5,7 +5,20 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/Pri/ue-projects/MyProject/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+				"D:/Pri/ue-projects/MyProject/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"D:/Pri/ue-projects/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/AI/S02S2CXBKIQ0RBDKVIN61U.uasset",
+				"D:/Pri/ue-projects/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/IF/PPCV4A9IFR4BYGLP0ATPIN.uasset",
+				"D:/Pri/ue-projects/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/UO/0VEITJKZMVZAJCEHYBA4CE.uasset",
+				"D:/Pri/ue-projects/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/BX/LO3VTDW8SA4X8ZUTEKNFTK.uasset",
+				"D:/Pri/ue-projects/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/WY/Q0OS4K1VW246S8L24PSYCN.uasset",
+				"D:/Pri/ue-projects/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/QZ/R2UUDAE29K28EHOIMTHZ0B.uasset",
+				"D:/Pri/ue-projects/MyProject/Content/Maps/NewWorld1.umap",
+				"D:/Pri/ue-projects/MyProject/Content/ThirdPerson/Maps/_GENERATED/Administrator/Box_FC36441E.uasset",
+				"D:/Pri/ue-projects/MyProject/Content/ThirdPerson/Maps/_GENERATED/Administrator/Cone_D4F05961.uasset",
+				"D:/Pri/ue-projects/MyProject/Content/ThirdPerson/Maps/_GENERATED/Administrator/Disc_894C07C9.uasset",
+				"D:/Pri/ue-projects/MyProject/Content/ThirdPerson/Maps/_GENERATED/Administrator/Path_FFCA14B4.uasset",
+				"D:/Pri/ue-projects/MyProject/Content/ThirdPerson/Maps/_GENERATED/Administrator/Rectangle_C0FDB678.uasset",
+				"D:/Pri/ue-projects/MyProject/Content/ThirdPerson/Maps/_GENERATED/Administrator/Stairs_3000DCAC.uasset"
 			]
 		}
 	]
